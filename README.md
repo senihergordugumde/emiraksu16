@@ -1,7 +1,9 @@
 <h1 align="center">Hello Everyone On Earth 🧑‍🚀 </h1>
 <h3 align="center">This is Emir </h3>
 
-- 🌐 My personel website:**https://emiraksu.net**
+- 🚀 My itch.io account : **https://emiraksu.itch.io**
+
+- 🌐 My personel website: **https://emiraksu.net**
 
 - ✉️ Contact: **mail@emiraksu.net**
 
